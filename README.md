@@ -51,8 +51,9 @@
 
 ### ⚛️ Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,nextjs,express&theme=dark" />
+  
   <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="48" height="48" title="Framer Motion" alt="Framer Motion"/>
+  <img src="https://skillicons.dev/icons?i=tailwind,nextjs,express,vue&theme=dark" />
 </p>
 
 ### 📚 Libraries, Database & UI Kits
