@@ -75,20 +75,20 @@
 ## 📊 Performance & Milestones
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prodip2005&show_icons=true&theme=tokyonight&bg_color=0a192f&title_color=ffffff&text_color=BDD4E7&icon_color=00d4ff&border_color=0a192f&include_all_commits=true&count_private=true" height="175px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodip2005&layout=compact&theme=tokyonight&bg_color=0a192f&title_color=ffffff&text_color=BDD4E7&border_color=0a192f" height="175px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prodip-shadow&show_icons=true&theme=tokyonight&bg_color=0a192f&title_color=ffffff&text_color=BDD4E7&icon_color=00d4ff&border_color=0a192f&include_all_commits=true&count_private=true" height="175px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodip-shadow&layout=compact&theme=tokyonight&bg_color=0a192f&title_color=ffffff&text_color=BDD4E7&border_color=0a192f" height="175px" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=prodip2005&theme=tokyonight&column=5&margin-w=10&no-bg=true&no-frame=true" width="85%" />
+  <img src="https://github-trophies.vercel.app/?username=prodip-shadow&theme=tokyonight&column=5&margin-w=10&no-bg=true&no-frame=true" width="85%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prodip2005&theme=night-owl&bg_color=0a192f&color=BDD4E7&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prodip-shadow&theme=night-owl&bg_color=0a192f&color=BDD4E7&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=100&section=footer" width="100%"/>
@@ -100,7 +100,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prodip2005&color=0a192f&style=flat-square&label=RADAR+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=prodip-shadow&color=0a192f&style=flat-square&label=RADAR+VIEWS" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=100&section=footer" width="100%"/>
