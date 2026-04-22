@@ -37,9 +37,6 @@
   </tr>
 </table>
 
-
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=100&section=footer" width="100%"/>
 
 ## 🛠️ My Digital Arsenal
@@ -51,7 +48,6 @@
 
 ### ⚛️ Frameworks
 <p align="left">
-  
   <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="48" height="48" title="Framer Motion" alt="Framer Motion"/>
   <img src="https://skillicons.dev/icons?i=tailwind,nextjs,express,vue&theme=dark" />
 </p>
@@ -59,9 +55,6 @@
 ### 📚 Libraries, Database & UI Kits
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,mongodb,nodejs,firebase&theme=dark" />
-  
-  
-  
   <img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg" width="60" height="100" title="DaisyUI" alt="DaisyUI"/>
 </p>
 
@@ -69,6 +62,70 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,npm,postman&theme=dark" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=100&section=footer" width="100%"/>
+
+## 🚀 Featured Projects
+
+### 🦉 Tutor Owl
+<table border="0">
+  <tr>
+    <td width="50%" valign="center">
+      <img src="https://i.ibb.co.com/LzfhcR51/Screenshot-From-2026-01-01-10-54-12.png" width="100%" style="border-radius: 8px;"/>
+    </td>
+    <td width="50%" valign="top">
+      <p align="left">
+        <b>Tutor Owl</b> is a comprehensive tuition management platform featuring 3 distinct roles: Student, Teacher, and Admin.
+      </p>
+      <p align="left">
+        <b>🛠️ Tech Stack:</b><br>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+      </p>
+      <p align="left">
+        <b>✨ Key Features:</b><br>
+        &nbsp;&nbsp;•&nbsp; <b>Lucide React</b> icons used for clean and modern UI.<br>
+        &nbsp;&nbsp;•&nbsp; Roles: Student, Teacher, and Admin Management.<br>
+        &nbsp;&nbsp;•&nbsp; Secure hiring and payment flow for students.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 🚗 Vehicle Shop
+<table border="0">
+  <tr>
+    <td width="50%" valign="center">
+      <img src="https://i.ibb.co.com/1GZntqj4/Screenshot-From-2026-01-01-13-32-09.png" width="100%" style="border-radius: 8px;"/>
+    </td>
+    <td width="50%" valign="top">
+      <p align="left">
+        <b>Vehicle Shop</b> is a full-stack dynamic platform to explore, book, sell, or rent vehicles effortlessly.
+      </p>
+      <p align="left">
+        <b>🛠️ Tech Stack:</b><br>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+      </p>
+      <p align="left">
+        <b>✨ Key Features:</b><br>
+        &nbsp;&nbsp;•&nbsp; Secure authentication using <b>JWT</b> and <b>Firebase</b>.<br>
+        &nbsp;&nbsp;•&nbsp; Responsive UI designed with <b>Tailwind CSS</b> and <b>Lucide React</b>.<br>
+        &nbsp;&nbsp;•&nbsp; Full-stack management for vehicle listings and bookings.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=100&section=footer" width="100%"/>
 
